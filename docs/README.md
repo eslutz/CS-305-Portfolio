@@ -4,8 +4,8 @@ Projects from CS-305 Software Security.
 
 ## Projects
 
-- Project 1 - [Vulnerability Assessment Report](../Artemis%20Financial%20Vulnerability%20Assessment%20Report.pdf)
-- Project 2 - [Practices for Secure Software Report](../Artemis%20Financial%20Practices%20for%20Secure%20Software%20Report.pdf)
+- Project 1 - [Vulnerability Assessment Report](Artemis%20Financial%20Vulnerability%20Assessment%20Report.pdf)
+- Project 2 - [Practices for Secure Software Report](Artemis%20Financial%20Practices%20for%20Secure%20Software%20Report.pdf)
 
 ## Reflection
 
